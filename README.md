@@ -51,7 +51,7 @@ Resort_Management_DW_BI/
 ├── Metabase_Reports/
 ├── Diagrams/
 ├── Documentation/
-│   └── Resort_Management_Data_Warehouse_And_BI_Report.pdf
+│   └── Team 4_Resort_Management_DW_BI_Project Report.pdf
 │
 └── README.md
 ```
